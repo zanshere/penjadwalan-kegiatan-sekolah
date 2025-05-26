@@ -3,7 +3,7 @@ pastikan kamu punya :
 1. Git
 2. node js dan npm 
 3. laragon atau xampp
-4. php 8.0>=
+4. php 8.0 atau diatasnya
 
 Jika sudah memenuhi persyaratan diatas maka kamu bisa lanjut ke step berikutnya
 
